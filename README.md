@@ -2,6 +2,6 @@
 
 Desafio Git/GitHub - Repositorio
 
-Links uteis 
+Para os amantes de leitura, o link abaixo é de grande utilidade. Boa leitura
 
-https://github.com/EbookFoundation/free-programming-books.git
+https://www.baixelivros.com.br/
